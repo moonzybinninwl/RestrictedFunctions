@@ -1,4 +1,6 @@
-# Dangerous Function Filter
+![C++](https://img.shields.io/badge/language-C++-00599C?logo=c%2B%2B&logoColor=white)
+
+# Dangerous Function Filter 
 
 A list of blocked / dangerous functions that you can add to your namecallhooks/metahooks for your internal executor.
 
